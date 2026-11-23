@@ -7,5 +7,5 @@ SIMMAGI memiliki beberapa role yaitu admin website, mahasiswa, ketua jurusan, ad
 
 <br>
 
-<h5>Admin Website</h5>
+<h3>Admin Website</h3>
 
