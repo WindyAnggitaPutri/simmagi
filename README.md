@@ -7,13 +7,4 @@ SIMMAGI memiliki beberapa role yaitu admin website, mahasiswa, ketua jurusan, ad
 
 <br>
 
-<h3>Admin Website</h3>
-<br>
-
-Admin Website memiliki akses untuk mengelola website, contohnya seperti CRUD mahasiswa, dosen, jurusan, program studi, jabatan, semester dan lain sebagainya.
-
-<h3>Mahasiswa</h3>
-<br>
-
-Mahasiswa memiliki akses 
 
